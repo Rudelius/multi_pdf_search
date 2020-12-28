@@ -1,7 +1,5 @@
 # multi_pdf_search
 
-Colab notebook to enable quick PDF searching across multiple documents.
+An effective way to scan a large amount of PDF files for information.
 
-Utilizes the Colab builtin interactive dataframe viewer to browse search results.
-
-View project in Colab.
+Should be viewed in Colab, link in notebook.
